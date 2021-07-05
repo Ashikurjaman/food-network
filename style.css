@@ -108,6 +108,7 @@ body{
 }
 .mid-section p{
     color: #272727;
+    text-align: justify;
 }
 .recipies {
     margin-top: 60px;
