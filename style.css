@@ -136,14 +136,16 @@ body{
 
 .dishes p{
     margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
 }
 
 
 .dishes-1{
-    width: 30%;
+    width: 32%;
     padding: 15px 0 15px 0px;
     border: 1px solid #E3E2DE;
-    margin-right: 20px;
+    margin-right: 40px;
     background-color: #E3E2DE;
     border-radius: 20px;
     box-shadow: 2px 6px 16px #272727;
@@ -158,11 +160,12 @@ body{
 }
 
 
+
 .dishes-2{
-    width: 30%;
+    width: 32%;
     padding: 15px 0 15px 0px;
     border: 1px solid #E3E2DE;
-    margin-right: 20px;
+    margin-right: 40px;
     background-color: #E3E2DE;
     border-radius: 20px;
     box-shadow: 2px 6px 16px #272727;
@@ -178,10 +181,10 @@ body{
 
 
 .dishes-3{
-    width: 30%;
+    width: 32%;
     padding: 15px 0 15px 0px;
     border: 1px solid #E3E2DE;
-    margin-right: 20px;
+    margin-right: 40px;
     background-color: #E3E2DE;
     border-radius: 20px;
     box-shadow: 2px 6px 16px #272727;
@@ -212,6 +215,11 @@ body{
     color: #272727;
     
 }
+.Social-media div h2{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
 .sub{
     padding-top: 50px;
     text-align: center;
@@ -224,7 +232,8 @@ body{
     
 }
 .sub h2{
-    color:#E3E2DE;
+    color:#2E1115;
+    font-size: 50px;
 
 }
 .email{
